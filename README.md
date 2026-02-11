@@ -34,6 +34,11 @@ A curated list of awesome civic tech projects and deployed instances.
   Source: https://github.com/statedecoded/statedecoded  
   Instances: 6 instances listed at http://www.statedecoded.com/places/
 
+- [**Absurdity Index**](https://absurdityindex.org) scores real congressional legislation on an absurdity scale (1-10) with proof links to congress.gov, making legislative activity accessible and engaging.
+
+  Source: https://github.com/AbsurdityIndex/absurdityindex.org  
+  Instances: https://absurdityindex.org/
+
 ## Closed Source Apps
 
 - [**Govtrack**](https://www.govtrack.us/) helps everyone learn about and track the activities of the United States Congress.
