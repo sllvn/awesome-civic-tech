@@ -34,6 +34,11 @@ A curated list of awesome civic tech projects and deployed instances.
   Source: https://github.com/statedecoded/statedecoded  
   Instances: 6 instances listed at http://www.statedecoded.com/places/
 
+- [**The Distraction Index**](https://distractionindex.org) is an AI-powered platform scoring U.S. political events on two axes (constitutional damage vs. media distraction) with full algorithmic transparency.
+
+  Source: https://github.com/sgharlow/distraction  
+  Instances: https://distractionindex.org/
+
 ## Closed Source Apps
 
 - [**Govtrack**](https://www.govtrack.us/) helps everyone learn about and track the activities of the United States Congress.
